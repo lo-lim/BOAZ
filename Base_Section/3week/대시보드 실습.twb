@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20224.22.1117.1841                               -->
+<workbook original-version='18.1' source-build='2022.4.0 (20224.22.1117.1841)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AccessibleZoneTabOrder.true...AccessibleZoneTabOrder />
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <BasicButtonObject />
+    <BasicButtonObjectTextSupport />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <SetMembershipControl />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources />
+  <dashboards>
+    <dashboard _.fcp.AccessibleZoneTabOrder.true...enable-sort-zone-taborder='true' name='지하철 혼잡도 대시보드'>
+      <style />
+      <size sizing-mode='automatic' />
+      <zones>
+        <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='15997' id='3' is-centered='0' type-v2='bitmap' w='89881' x='9651' y='893'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='15997' id='6' is-centered='0' type-v2='bitmap' w='9183' x='468' y='893'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='15334' id='7' type-v2='empty' w='30021' x='69511' y='83773'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='8110' id='8' type-v2='empty' w='22474' x='77058' y='16890'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='25000' id='9' type-v2='empty' w='89881' x='9651' y='25000'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='49107' id='10' type-v2='empty' w='59860' x='9651' y='50000'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='8110' id='11' type-v2='empty' w='44938' x='9651' y='16890'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='8110' id='12' type-v2='empty' w='22469' x='54589' y='16890'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='27220' id='13' type-v2='dashboard-object' w='9183' x='468' y='16890'>
+            <button action='' button-type='text'>
+              <button-visual-state>
+                <button-caption-font-style fontcolor='#ffffff' fontname='Tableau Bold' fontsize='12' />
+                <format attr='background-color' value='#333333' />
+              </button-visual-state>
+            </button>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='27330' id='14' type-v2='dashboard-object' w='9183' x='468' y='44110'>
+            <button action='' button-type='text'>
+              <button-visual-state>
+                <button-caption-font-style fontcolor='#ffffff' fontname='Tableau Bold' fontsize='12' />
+                <format attr='background-color' value='#333333' />
+              </button-visual-state>
+            </button>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='27667' id='15' type-v2='dashboard-object' w='9183' x='468' y='71440'>
+            <button action='' button-type='text'>
+              <button-visual-state>
+                <button-caption-font-style fontcolor='#ffffff' fontname='Tableau Bold' fontsize='12' />
+                <format attr='background-color' value='#333333' />
+              </button-visual-state>
+            </button>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='16664' id='16' type-v2='empty' w='30021' x='69511' y='50000'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='17109' id='17' type-v2='empty' w='30021' x='69511' y='66664'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='700' minheight='700' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='29' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98214' id='28' param='vert' type-v2='layout-flow' w='99064' x='468' y='893'>
+                <zone fixed-size='120' h='15997' id='6' is-centered='0' is-fixed='true' type-v2='bitmap' w='9183' x='468' y='893'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='120' h='15997' id='3' is-centered='0' is-fixed='true' type-v2='bitmap' w='89881' x='9651' y='893'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone h='27220' id='13' type-v2='dashboard-object' w='9183' x='468' y='16890'>
+                  <button action='' button-type='text'>
+                    <button-visual-state>
+                      <button-caption-font-style fontcolor='#ffffff' fontname='Tableau Bold' fontsize='12' />
+                      <format attr='background-color' value='#333333' />
+                    </button-visual-state>
+                  </button>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone h='27330' id='14' type-v2='dashboard-object' w='9183' x='468' y='44110'>
+                  <button action='' button-type='text'>
+                    <button-visual-state>
+                      <button-caption-font-style fontcolor='#ffffff' fontname='Tableau Bold' fontsize='12' />
+                      <format attr='background-color' value='#333333' />
+                    </button-visual-state>
+                  </button>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone h='27667' id='15' type-v2='dashboard-object' w='9183' x='468' y='71440'>
+                  <button action='' button-type='text'>
+                    <button-visual-state>
+                      <button-caption-font-style fontcolor='#ffffff' fontname='Tableau Bold' fontsize='12' />
+                      <format attr='background-color' value='#333333' />
+                    </button-visual-state>
+                  </button>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{CDB961CC-1FBD-4214-B784-2E73A2FC3A20}' />
+    </dashboard>
+  </dashboards>
+  <windows>
+    <window class='dashboard' maximized='true' name='지하철 혼잡도 대시보드'>
+      <viewpoints />
+      <active id='-1' />
+      <simple-id uuid='{E8D8164F-88BC-41E4-996D-A1C390ACA6D8}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='지하철 혼잡도 대시보드' width='192'>
+      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
+      2hiyoRAVXDkAAAAASUVORK5CYII=
+    </thumbnail>
+  </thumbnails>
+</workbook>
