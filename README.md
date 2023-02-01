@@ -4,5 +4,5 @@
 - 3 week : [Dashboard Practice](https://github.com/lo-lim/BOAZ_visualization/tree/main/Base_Section/3week) 
 
 ## Mento Mentee study on vacation(2023.1.16~2.27)
-- 2 week: [Numpy & Pandas introudctuin](https://github.com/lo-lim/BOAZ_visualization/tree/main/Mentor_study/2week)
+- 2 week: [Numpy & Pandas introduction](https://github.com/lo-lim/BOAZ_visualization/tree/main/Mentor_study/2week)
 - 3 week: [Double bar chart & radar chart & double pie chart](https://github.com/lo-lim/BOAZ_visualization/tree/main/Mentor_study/3week)
